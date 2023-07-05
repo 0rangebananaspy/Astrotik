@@ -13,7 +13,7 @@ banner:
 features:
   - title: "What's Included in Astroplate"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro Techies. What's Included in Astroplate"
     bulletpoints:
       - "10+ Pre-build pages"
       - "95+ Google Pagespeed Score"
